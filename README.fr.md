@@ -47,13 +47,16 @@ Un agent ou un développeur web peut coller la ligne pour vous ; vous seul pouve
 
 **Où vont les données ?** Les conversations sont conservées sur nos serveurs en Suisse. Les réponses d'Emma sont produites par un service d'intelligence artificielle, qui peut se trouver hors de Suisse. Sans publicité. Rien n'est vendu. Détails : [stimhaus.ai/confidentialite](https://stimhaus.ai/confidentialite).
 
+**Les assistants IA peuvent-ils parler à mon commerce ?** Oui, une fois la bulle validée : votre commerce reçoit aussi une porte pour les assistants IA (protocole A2A). Un assistant peut y poser les mêmes questions qu'un visiteur — horaires, services, prix, accès, comment réserver. Ces échanges comptent dans vos messages clients et sont limités ; votre numéro de téléphone n'est pas donné aux assistants.
+
 **Puis-je l'enlever ?** Effacez la ligne. Rien d'autre n'est installé.
 
-**Combien ça coûte ?** Comme sur [stimhaus.ai/pricing](https://stimhaus.ai/pricing) : Light est gratuit pour les 1000 premiers commerces (ensuite 19 CHF/mois), 1 site et 100 messages clients par mois ; Pro est à 49 CHF/mois, messages illimités pour un usage normal, numéro WhatsApp dédié, rendez-vous automatiques, jusqu'à 5 sites.
+**Combien ça coûte ?** Comme sur [stimhaus.ai/pricing](https://stimhaus.ai/pricing) : Light est gratuit pour les 1000 premiers commerces (ensuite 19 CHF/mois), 1 site et 100 messages clients par mois (les échanges avec les agents y comptent) ; Pro est à 49 CHF/mois, messages illimités pour un usage normal, numéro WhatsApp dédié, rendez-vous automatiques, jusqu'à 5 sites.
 
 ## Pour les agents et les développeurs
 
 - Skill (installer la bulle pour un commerce) : https://stimhaus.ai/bulle/skill.md
+- Porte d'agent d'un commerce dont la bulle est validée (A2A, sans clé) : `https://stimhaus.ai/agent/<ID>/agent-card.json`
 - Emma pour les agents IA (un site pour votre propre agent) : https://stimhaus.ai/agents
 
 ## Licence

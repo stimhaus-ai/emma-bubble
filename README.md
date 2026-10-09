@@ -47,13 +47,16 @@ An agent or a web developer can paste the line for you; only you can validate it
 
 **Where does the data go?** Conversations are kept on our servers in Switzerland. Emma's answers are produced by an artificial-intelligence service, which may be located outside Switzerland. No advertising. Nothing is sold. Details: [stimhaus.ai/confidentialite](https://stimhaus.ai/confidentialite).
 
+**Can AI assistants talk to my business?** Yes, once the bubble is validated: your business also gets a door for AI assistants (A2A protocol). An assistant can ask it the same questions as a visitor — opening hours, services, prices, location, how to book. These exchanges count towards your customer messages and are limited; your phone number is not given to assistants.
+
 **Can I remove it?** Delete the line. Nothing else is installed.
 
-**What does it cost?** As on [stimhaus.ai/pricing](https://stimhaus.ai/pricing): Light is free for the first 1,000 businesses (then 19 CHF/month) with 1 website and 100 customer messages per month; Pro is 49 CHF/month with unlimited messages for normal business use, a dedicated WhatsApp number, automatic appointments and up to 5 websites.
+**What does it cost?** As on [stimhaus.ai/pricing](https://stimhaus.ai/pricing): Light is free for the first 1,000 businesses (then 19 CHF/month) with 1 website and 100 customer messages per month (agent conversations count in them); Pro is 49 CHF/month with unlimited messages for normal business use, a dedicated WhatsApp number, automatic appointments and up to 5 websites.
 
 ## For agents and developers
 
 - Skill (how to install the bubble for a business): https://stimhaus.ai/bulle/skill.md
+- Agent door of a business whose bubble is validated (A2A, no key): `https://stimhaus.ai/agent/<ID>/agent-card.json`
 - Emma for AI agents (a website for your own agent): https://stimhaus.ai/agents
 
 ## License

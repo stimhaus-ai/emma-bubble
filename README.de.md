@@ -47,13 +47,16 @@ Ein Agent oder ein Webentwickler kann die Zeile für Sie einfügen; bestätigen 
 
 **Wohin gehen die Daten?** Die Gespräche werden auf unseren Servern in der Schweiz aufbewahrt. Emmas Antworten werden von einem Dienst für künstliche Intelligenz erzeugt, der sich ausserhalb der Schweiz befinden kann. Ohne Werbung. Nichts wird verkauft. Details: [stimhaus.ai/confidentialite](https://stimhaus.ai/confidentialite).
 
+**Können KI-Assistenten mit meinem Geschäft sprechen?** Ja, sobald die Bubble bestätigt ist: Ihr Geschäft erhält auch eine Tür für KI-Assistenten (A2A-Protokoll). Ein Assistent kann dort dieselben Fragen stellen wie ein Besucher – Öffnungszeiten, Leistungen, Preise, Anfahrt, Buchung. Diese Austausche zählen zu Ihren Kundennachrichten und sind begrenzt; Ihre Telefonnummer wird Assistenten nicht weitergegeben.
+
 **Kann ich sie entfernen?** Löschen Sie die Zeile. Sonst ist nichts installiert.
 
-**Was kostet es?** Wie auf [stimhaus.ai/pricing](https://stimhaus.ai/pricing): Light ist gratis für die ersten 1000 Geschäfte (danach 19 CHF/Monat), 1 Website und 100 Kundennachrichten pro Monat; Pro kostet 49 CHF/Monat, unbegrenzte Nachrichten bei normaler Nutzung, eigene WhatsApp-Nummer, automatische Termine, bis zu 5 Websites.
+**Was kostet es?** Wie auf [stimhaus.ai/pricing](https://stimhaus.ai/pricing): Light ist gratis für die ersten 1000 Geschäfte (danach 19 CHF/Monat), 1 Website und 100 Kundennachrichten pro Monat (Gespräche mit Agenten zählen dazu); Pro kostet 49 CHF/Monat, unbegrenzte Nachrichten bei normaler Nutzung, eigene WhatsApp-Nummer, automatische Termine, bis zu 5 Websites.
 
 ## Für Agenten und Entwickler
 
 - Skill (die Bubble für ein Geschäft installieren): https://stimhaus.ai/bulle/skill.md
+- Agenten-Tür eines Geschäfts mit bestätigter Bubble (A2A, ohne Schlüssel): `https://stimhaus.ai/agent/<ID>/agent-card.json`
 - Emma für KI-Agenten (eine Website für Ihren eigenen Agenten): https://stimhaus.ai/agents
 
 ## Lizenz
