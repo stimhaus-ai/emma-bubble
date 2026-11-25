@@ -31,7 +31,7 @@ Option: `data-lang="de"` legt die Rückfallsprache fest, wenn die Browsersprache
 
 ## Ihre ID erhalten
 
-Schreiben Sie Emma auf WhatsApp mit der Adresse Ihrer Website — Nummer und QR-Code finden Sie auf [stimhaus.ai/bulle](https://stimhaus.ai/bulle). Emma liest Ihre Website und schickt Ihnen die genaue Zeile zum Einfügen. Noch keine Website? Emma erstellt sie mit Ihnen auf [stimhaus.ai](https://stimhaus.ai), Bubble inklusive.
+Schreiben Sie Emma auf WhatsApp mit der Adresse Ihrer Website — Nummer und QR-Code finden Sie auf [stimhaus.ai/bulle](https://stimhaus.ai/bulle). Emma liest Ihre Website und schickt Ihnen die genaue Zeile zum Einfügen. Keine Website? Nicht nötig: Ihr Emma-Link genügt (Instagram-Bio, Google-Profil, Flyer), und Ihre Kunden schreiben ihr auf WhatsApp.
 
 ## Die Bubble aktivieren
 
@@ -51,7 +51,7 @@ Ein Agent oder ein Webentwickler kann die Zeile für Sie einfügen; bestätigen 
 
 **Kann ich sie entfernen?** Löschen Sie die Zeile. Sonst ist nichts installiert.
 
-**Was kostet es?** Wie auf [stimhaus.ai/pricing](https://stimhaus.ai/pricing): Light ist gratis für die ersten 1000 Geschäfte (danach 19 CHF/Monat), 1 Website und 100 Kundennachrichten pro Monat (Gespräche mit Agenten zählen dazu); Pro kostet 49 CHF/Monat, unbegrenzte Nachrichten bei normaler Nutzung, eigene WhatsApp-Nummer, automatische Termine, bis zu 5 Websites.
+**Was kostet es?** Wie auf [stimhaus.ai](https://stimhaus.ai/de#prix), in USD: **Light ist kostenlos**, bis zu 100 Antworten von Emma pro Monat (Gespräche mit Agenten zählen dazu), ohne Kreditkarte. **Pro kostet 49 USD/Monat**, erster Monat geschenkt: unbegrenzte Nachrichten bei normaler Nutzung, Ihre eigene WhatsApp-Nummer, Reservierungen und Abholbestellungen, Synchronisation mit Ihrem Kalender. **Full kostet 99 USD/Monat**, erster Monat geschenkt: alles aus Pro, und Emma nimmt auch Ihre Anrufe entgegen, Tag und Nacht. Ohne Bindung.
 
 ## Für Agenten und Entwickler
 

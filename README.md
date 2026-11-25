@@ -31,7 +31,7 @@ Optional: `data-lang="en"` sets the fallback language when the visitor's browser
 
 ## Getting your ID
 
-Write to Emma on WhatsApp with your website address — the number and a QR code are on [stimhaus.ai/bulle](https://stimhaus.ai/bulle). Emma reads your website and sends you back the exact line to paste. No website yet? Emma builds it with you on [stimhaus.ai](https://stimhaus.ai), bubble included.
+Write to Emma on WhatsApp with your website address — the number and a QR code are on [stimhaus.ai/bulle](https://stimhaus.ai/bulle). Emma reads your website and sends you back the exact line to paste. No website? No problem: your Emma link is enough (Instagram bio, Google profile, flyers), and your customers message her on WhatsApp.
 
 ## Activating the bubble
 
@@ -51,7 +51,7 @@ An agent or a web developer can paste the line for you; only you can validate it
 
 **Can I remove it?** Delete the line. Nothing else is installed.
 
-**What does it cost?** As on [stimhaus.ai/pricing](https://stimhaus.ai/pricing): Light is free for the first 1,000 businesses (then 19 CHF/month) with 1 website and 100 customer messages per month (agent conversations count in them); Pro is 49 CHF/month with unlimited messages for normal business use, a dedicated WhatsApp number, automatic appointments and up to 5 websites.
+**What does it cost?** As on [stimhaus.ai](https://stimhaus.ai/en#prix), in USD: **Light is free**, up to 100 replies from Emma per month (agent conversations count in them), no credit card. **Pro is 49 USD/month**, first month free: unlimited messages for normal business use, your dedicated WhatsApp number, bookings and takeaway orders, sync with your calendar. **Full is 99 USD/month**, first month free: everything in Pro, and Emma also answers your phone, day and night. No commitment.
 
 ## For agents and developers
 

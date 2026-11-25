@@ -31,7 +31,7 @@ Option : `data-lang="fr"` fixe la langue de repli quand la langue du navigateur 
 
 ## Obtenir votre identifiant
 
-Écrivez à Emma sur WhatsApp avec l'adresse de votre site — le numéro et un code QR sont sur [stimhaus.ai/bulle](https://stimhaus.ai/bulle). Emma lit votre site et vous renvoie la ligne exacte à coller. Pas encore de site ? Emma le crée avec vous sur [stimhaus.ai](https://stimhaus.ai), bulle comprise.
+Écrivez à Emma sur WhatsApp avec l'adresse de votre site — le numéro et un code QR sont sur [stimhaus.ai/bulle](https://stimhaus.ai/bulle). Emma lit votre site et vous renvoie la ligne exacte à coller. Pas de site ? Pas besoin : votre lien Emma suffit (bio Instagram, fiche Google, flyers), et vos clients lui écrivent sur WhatsApp.
 
 ## Activer la bulle
 
@@ -51,7 +51,7 @@ Un agent ou un développeur web peut coller la ligne pour vous ; vous seul pouve
 
 **Puis-je l'enlever ?** Effacez la ligne. Rien d'autre n'est installé.
 
-**Combien ça coûte ?** Comme sur [stimhaus.ai/pricing](https://stimhaus.ai/pricing) : Light est gratuit pour les 1000 premiers commerces (ensuite 19 CHF/mois), 1 site et 100 messages clients par mois (les échanges avec les agents y comptent) ; Pro est à 49 CHF/mois, messages illimités pour un usage normal, numéro WhatsApp dédié, rendez-vous automatiques, jusqu'à 5 sites.
+**Combien ça coûte ?** Comme sur [stimhaus.ai](https://stimhaus.ai/#prix), en USD : **Light est gratuit**, jusqu'à 100 réponses d'Emma par mois (les échanges avec les agents y comptent), sans carte bancaire. **Pro est à 49 USD/mois**, 1er mois offert : messages illimités pour un usage normal, votre numéro WhatsApp dédié, réservations et commandes à emporter, synchronisation avec votre agenda. **Full est à 99 USD/mois**, 1er mois offert : tout le Pro, et Emma décroche aussi votre téléphone, jour et nuit. Sans engagement.
 
 ## Pour les agents et les développeurs
 
