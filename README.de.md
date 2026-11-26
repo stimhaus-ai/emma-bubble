@@ -21,9 +21,9 @@ Ersetzen Sie `IHRE-ID` und `Ihr Geschäft` durch die Werte, die Emma Ihnen gibt 
 
 | Plattform | Wo |
 |---|---|
-| WordPress | Ein Plugin für Header- und Footer-Code → Bereich „Footer“; oder im Theme, vor `</body>` |
-| Wix | Einstellungen → Benutzerdefinierter Code → Code hinzufügen → „Body – Ende“ |
-| Shopify | Onlineshop → Themes → Code bearbeiten → `theme.liquid`, vor `</body>` |
+| WordPress · WooCommerce | **Offizielles Plugin** [`emma-by-stimhaus`](https://de.wordpress.org/plugins/emma-by-stimhaus/) auf wordpress.org — kein Code zum Einfügen. In einem WooCommerce-Shop lernt Emma zudem Ihren Katalog (Produkte, Preise, Optionen, Bestand) und schickt Links, die den richtigen Artikel in den Warenkorb legen. |
+| Wix | **Offizielle App** [„Emma AI Receptionist & Chat“](https://www.wix.com/app-market/admin0715805-emma-by-stimhaus) im Wix App Market (über Wix abgerechnet) — oder Einstellungen → Benutzerdefinierter Code → „Body – Ende“ |
+| Shopify | **Offizielle App** [„Emma AI Shopping Assistant“](https://apps.shopify.com/emma-by-stimhaus?locale=de) im Shopify App Store — nichts einzufügen; Emma lernt Ihren Katalog und schickt Warenkorb-Links. |
 | Squarespace | Einstellungen → Erweitert → Code-Injektion → „Footer“ |
 | HTML-Website | Vor `</body>` im Layout — siehe [Beispiele](examples/) |
 
@@ -55,6 +55,8 @@ Ein Agent oder ein Webentwickler kann die Zeile für Sie einfügen; bestätigen 
 
 ## Für Agenten und Entwickler
 
+- **Ein Aufruf** (kostenlos, ohne Schlüssel): `POST https://stimhaus.ai/mcp` → Werkzeug `install_emma` mit `{"platform":"wordpress"|"shopify"|"wix"|"other"}`: sagt einem Agenten genau, wie Emma für ein Geschäft installiert wird. Anleitung für Agenten: https://stimhaus.ai/agents/install-emma.md
+- WordPress mit Admin-Zugang: `wp plugin install emma-by-stimhaus --activate`. Danach aktiviert der Inhaber Emma auf WhatsApp — nie an seiner Stelle bestätigen.
 - Skill (die Bubble für ein Geschäft installieren): https://stimhaus.ai/bulle/skill.md
 - Agenten-Tür eines Geschäfts mit bestätigter Bubble (A2A, ohne Schlüssel): `https://stimhaus.ai/agent/<ID>/agent-card.json`
 - Emma für KI-Agenten (eine Website für Ihren eigenen Agenten): https://stimhaus.ai/agents

@@ -21,9 +21,9 @@ Replace `YOUR-ID` and `Your business` with the values Emma gives you (see below)
 
 | Platform | Where |
 |---|---|
-| WordPress | A "header and footer code" plugin → Footer area; or your theme, before `</body>` |
-| Wix | Settings → Custom code → Add code → Body – end |
-| Shopify | Online store → Themes → Edit code → `theme.liquid`, before `</body>` |
+| WordPress · WooCommerce | **Official plugin** [`emma-by-stimhaus`](https://wordpress.org/plugins/emma-by-stimhaus/) on wordpress.org — no code to paste. On a WooCommerce store, Emma also learns your catalog (products, prices, options, stock) and sends add-to-cart links. |
+| Wix | **Official app** ["Emma AI Receptionist & Chat"](https://www.wix.com/app-market/admin0715805-emma-by-stimhaus) on the Wix App Market (billed by Wix) — or Settings → Custom code → Body – end |
+| Shopify | **Official app** ["Emma AI Shopping Assistant"](https://apps.shopify.com/emma-by-stimhaus) on the Shopify App Store — nothing to paste; Emma learns your catalog and sends add-to-cart links. |
 | Squarespace | Settings → Advanced → Code injection → Footer |
 | Any HTML site | Before `</body>` in your layout — see [examples](examples/) |
 
@@ -55,6 +55,8 @@ An agent or a web developer can paste the line for you; only you can validate it
 
 ## For agents and developers
 
+- **One call** (free, no key): `POST https://stimhaus.ai/mcp` → tool `install_emma` with `{"platform":"wordpress"|"shopify"|"wix"|"other"}` tells an agent exactly how to install Emma for a business. Guide for agents: https://stimhaus.ai/agents/install-emma.md
+- WordPress with admin access: `wp plugin install emma-by-stimhaus --activate`. The owner then activates Emma on WhatsApp — never approve on the owner's behalf.
 - Skill (how to install the bubble for a business): https://stimhaus.ai/bulle/skill.md
 - Agent door of a business whose bubble is validated (A2A, no key): `https://stimhaus.ai/agent/<ID>/agent-card.json`
 - Emma for AI agents (a website for your own agent): https://stimhaus.ai/agents

@@ -21,9 +21,9 @@ Remplacez `VOTRE-ID` et `Votre commerce` par les valeurs qu'Emma vous donne (voi
 
 | Outil | Où |
 |---|---|
-| WordPress | Une extension d'insertion de code (en-tête et pied de page) → zone « Pied de page » ; ou dans votre thème, avant `</body>` |
-| Wix | Paramètres → Code personnalisé → Ajouter du code → « Fin du body » |
-| Shopify | Boutique en ligne → Thèmes → Modifier le code → `theme.liquid`, avant `</body>` |
+| WordPress · WooCommerce | **Extension officielle** [`emma-by-stimhaus`](https://fr.wordpress.org/plugins/emma-by-stimhaus/) sur wordpress.org — aucun code à coller. Sur une boutique WooCommerce, Emma apprend aussi votre catalogue (produits, prix, options, stock) et envoie des liens qui mettent le bon article dans le panier. |
+| Wix | **App officielle** [« Emma AI Receptionist & Chat »](https://www.wix.com/app-market/admin0715805-emma-by-stimhaus) sur le Wix App Market (facturée par Wix) — ou Paramètres → Code personnalisé → « Fin du body » |
+| Shopify | **App officielle** [« Emma AI Shopping Assistant »](https://apps.shopify.com/emma-by-stimhaus?locale=fr) sur le Shopify App Store — rien à coller ; Emma apprend votre catalogue et envoie des liens panier. |
 | Squarespace | Paramètres → Avancé → Injection de code → « Pied de page » |
 | Site HTML | Avant `</body>` dans votre gabarit — voir les [exemples](examples/) |
 
@@ -55,6 +55,8 @@ Un agent ou un développeur web peut coller la ligne pour vous ; vous seul pouve
 
 ## Pour les agents et les développeurs
 
+- **Un seul appel** (gratuit, sans clé) : `POST https://stimhaus.ai/mcp` → outil `install_emma` avec `{"platform":"wordpress"|"shopify"|"wix"|"other"}` : dit à un agent exactement comment installer Emma pour un commerce. Guide pour agents : https://stimhaus.ai/agents/install-emma.md
+- WordPress avec un accès administrateur : `wp plugin install emma-by-stimhaus --activate`. Le commerçant active ensuite Emma sur WhatsApp — ne jamais valider à sa place.
 - Skill (installer la bulle pour un commerce) : https://stimhaus.ai/bulle/skill.md
 - Porte d'agent d'un commerce dont la bulle est validée (A2A, sans clé) : `https://stimhaus.ai/agent/<ID>/agent-card.json`
 - Emma pour les agents IA (un site pour votre propre agent) : https://stimhaus.ai/agents
